@@ -15,7 +15,7 @@ api key สามารถทักมาขอได้ที่: [Instargram](
 - **Body:** `{"payload": "รหัสQR Code"}`
 
 ### 3. ตรวจสอบข้อมูลอื่นๆ
-- **Status API:** `GET https://slip-verify.scyw.site/api/health`, `https://slip-verify.scyw.site/api/health?apiKey=`
+- **Status API:** `GET https://slip-verify.scyw.site/api/health`, `https://slip-verify.scyw.site/api/health?apiKey={apikey}`
 - **Status System:** `https://slip-verify.scyw.site/`
 
 ---
